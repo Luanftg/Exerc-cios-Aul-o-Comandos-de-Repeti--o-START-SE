@@ -81,12 +81,12 @@
 
 ### Início
 
-- [ ] Ler (A)
-- [ ] caracteres = 0
-- [ ] PARA CADA caracter de A FAÇA
-  - [ ] caracteres = caracteres + 1
-- [ ]  Fim PARA
-- [ ]  Exibir(caracteres)
+- [x] Ler (A)
+- [x] caracteres = 0
+- [x] PARA CADA caracter de A FAÇA
+  - [x] caracteres = caracteres + 1
+- [x]  Fim PARA
+- [x]  Exibir(caracteres)
 
 ### Fim
 
